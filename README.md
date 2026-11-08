@@ -15,6 +15,8 @@ The source code (TypeScript engine, game data, tests and the Vite build) lives i
 1. In the source folder, run `npm run build`. It writes the single-file game to `dist/brewsim.html`.
 2. Copy `dist/brewsim.html` here as `index.html`, commit and push.
 
+Keep `og-image.jpg` (the preview image shown when the link is shared on social media) in place; the build doesn't produce it.
+
 The source `index.html` already contains the Google Analytics tag, so it carries over to every build.
 
 ## Credits
