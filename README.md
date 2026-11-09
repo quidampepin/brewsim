@@ -21,6 +21,6 @@ The source `index.html` already contains the Google Analytics tag, so it carries
 
 ## Credits
 
-Design, research and direction: David Pépin. Coded with Claude (Anthropic). Illustrations generated with ChatGPT (OpenAI). Full credits (sounds, typefaces, icons, data sources) are on the in-game Credits page. Part of [davidpepin.ca/projects](https://www.davidpepin.ca/projects/).
+Design, research and direction: David Pepin. Coded with Claude (Anthropic). Illustrations generated with ChatGPT (OpenAI). Full credits (sounds, typefaces, icons, data sources) are on the in-game Credits page. Part of [davidpepin.ca/projects](https://www.davidpepin.ca/projects/).
 
 The published page loads Google Analytics (page views only, same property as davidpepin.ca). The tag only runs on davidpepin.ca, not when you open the file locally.
